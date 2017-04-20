@@ -1,16 +1,6 @@
 # Javascript Exercises
 A collection of bite-sized exercises to hone JavaScript skills.
 
-## How To Use This Repo
-This repo is organized into [target areas](#target-areas) broken down into
-progressions to stretch your programming skills.
-
-For maximum effectiveness:
-* Have practice coding session 2+ times a week.
-* Timebox your practice coding sessions from 30 minutes to two hours.
-* Rotate through target areas.
-* Redo exercises that were particularly challenging.
-
 ### Preparing Your Machine for a Coding Session
 1. [Download and Install Node](http://nodejs.org/download/)
 1. Fork and clone this repository
